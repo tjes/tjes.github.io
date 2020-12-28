@@ -2,7 +2,7 @@
 This is the source code to my personal website.
 
 # License
-Copyright (c) 2015, Timothy Estes
+Copyright (c) 2021, Timothy Estes
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
